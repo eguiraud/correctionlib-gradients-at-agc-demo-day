@@ -9,6 +9,6 @@ authors = [
   { name = "Enrico Guiraud", email = "enrico.guiraud@pm.me" },
 ]
 dependencies = [
-  "correctionlib-gradients",
+  "correctionlib-gradients>=0.2.1",
   "jupyter",
 ]
